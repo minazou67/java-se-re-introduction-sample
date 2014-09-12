@@ -1,0 +1,1 @@
+"C:\Program Files\Java\jre1.8.0_20\bin\jjs" C:\java-se-re-introduction-sample\src\main\resources\org\minazou67\sample\se8\ClosureSample.js
