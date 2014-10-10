@@ -1,4 +1,4 @@
-java-se-re-introduction-sample
+Java SE Re-Introduction sample
 ==============================
 
-Java SE Re-Introduction samples.
+This is a sample code of the Java SE Re-Introduction.
